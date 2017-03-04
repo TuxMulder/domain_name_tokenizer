@@ -1,0 +1,6 @@
+input/*
+out/*
+crawl-data/*
+mrjob.conf
+*.pyc
+.DS_Store
